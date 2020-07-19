@@ -1,7 +1,12 @@
-.styling {
-    background-color: black;
-}
-
 h1 {
     color: brown;
+}
+
+.img-border {
+    border-style: solid;
+    border-radius: 25px;
+    border-color: black;
+    border-width: 5px;
+    padding: 0;
+    margin: 5%;
 }
